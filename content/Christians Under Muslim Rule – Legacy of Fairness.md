@@ -2,7 +2,7 @@
 title: Christians Under Muslim Rule – Legacy of Fairness
 fileClass: insight
 created: 2025-05-01T00:00:00.000-04:00
-updated: 2025-05-01T04:24:07.011-04:00
+updated: 2025-05-01T04:29:05.461-04:00
 aliases: 
 tags: 
   - type/insight 
@@ -15,6 +15,8 @@ down:
 # Christians Under Muslim Rule – Legacy of Fairness
 
 Throughout history, critics of Islam often overlook the treatment of non-Muslim communities under Muslim governance — especially that of Christians. Contrary to popular assumptions, many Syriac, Jacobite, and Orthodox Christian sources _themselves_ document not persecution but **rescue, protection, and fair treatment** under early Islamic rulers.
+
+![[bin/assets/0fc2442ac811c583a7976c29641bbd4b_MD5.png]]
 
 One such voice is [[John bar Penkaye]], a 7th-century Syriac Christian, who, reflecting on the Byzantine and Persian oppression of his time, declares in his chronicle (𝑹īš 𝑴𝒆𝒍𝒍ē – Book XIV) that:
 

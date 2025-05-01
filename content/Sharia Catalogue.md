@@ -2,7 +2,7 @@
 title: Sharia Catalogue
 fileClass: catalogue
 created: 2025-04-30T00:00:00.000-04:00
-updated: 2025-04-30T23:35:52.070-04:00
+updated: 2025-05-01T04:25:34.931-04:00
 aliases: 
 tags: 
   - type/catalogue 

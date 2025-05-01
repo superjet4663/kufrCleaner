@@ -1,8 +1,8 @@
 ---
 title: John bar Penkaye
 fileClass: person
-created: 2025-05-01
-updated: 2025-05-01
+created: 2025-05-01T00:00:00.000-04:00
+updated: 2025-05-01T04:25:30.810-04:00
 aliases: 
 tags: 
   - type/person
