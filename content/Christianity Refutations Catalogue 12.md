@@ -1,7 +1,7 @@
 ---
 title: Christianity Refutations Catalogue 12
 created: 2025-04-30T00:00:00.000-04:00
-updated: 2025-04-30T22:35:08.237-04:00
+updated: 2025-05-01T04:21:46.740-04:00
 aliases: 
 tags: 
   - type/catalogue

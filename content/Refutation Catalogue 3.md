@@ -2,7 +2,7 @@
 title: Refutation Catalogue 3
 fileClass: catalogue
 created: 2025-04-30T00:00:00.000-04:00
-updated: 2025-04-30T23:04:31.965-04:00
+updated: 2025-05-01T04:15:44.895-04:00
 aliases: 
 tags: 
   - type/catalogue 
