@@ -2,7 +2,7 @@
 title: Camel Urine in Hadith
 fileClass: note
 created: 2025-05-01T00:00:00.000-04:00
-updated: 2025-05-01T01:45:56.407-04:00
+updated: 2025-05-01T04:11:09.259-04:00
 aliases:
   - Camel Urine Hadith
   - Camel Pee in Islam
