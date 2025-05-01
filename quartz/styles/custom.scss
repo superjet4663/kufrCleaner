@@ -1,0 +1,11 @@
+@use "./base.scss";
+
+// put your custom CSS here!
+.page iframe.pdf {
+aspect-ratio: 1 / 1.4142 !important; /* A4 ratio */
+height: auto !important;
+width: 100% !important;
+border-radius: 0 !important;
+border: none !important;
+}
+  
