@@ -6,7 +6,7 @@ updated: 2025-05-01T04:00:31.142-04:00
 
 _Defending Islam with Knowledge and Clarity_
 
-> This wiki centralizes detailed responses to objections raised against Islam, the Qur'an, the Sunnah, and Islamic civilization.
+> This wiki centralizes detailed responses to objections raised against Islam, the Qur'an, the Sunnah, and Islamic civilization. **KufrCleaner** = cleaning _external polemics_ made by orientalists, liberals, feminists, atheists, apostates, Quranists, modernists, and "secular" intellectuals — not reconciling usuli ikhtilaf.
 
 ---
 
